@@ -4,4 +4,15 @@ background-color:darkseagreen;
 h1{
     color: white;
     font-size: 60px;
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+}
+ul li a{
+    text-align: center;
+}
+ul li a{
+    text-decoration: none;
+    color:brown;
 }
