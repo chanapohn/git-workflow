@@ -9,7 +9,7 @@ h1{
 ul{
     list-style-type: none;
 }
-ul li a{
+ul li {
     text-align: center;
 }
 ul li a{
